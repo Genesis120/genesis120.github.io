@@ -9,9 +9,9 @@ $(document).ready(function(){
     console.log(guess);
     //and compare this guess to the random number that the computer picked
     //if the user guessed the correct number...
-    
+    if number=guess
       //what happens if the guess is correct?
-      
+      console.log()
     //if the user guessed too high...
     
       //update the 'feedback' paragraph to tell them to guess lower
