@@ -15,7 +15,7 @@ $(document).ready(function(){
   $('#guess_number').empty();
   $('guess_number').append("guess so far:")
   $('feedback').empty();
-  if (play_guess===number){
+  if (play-guess===number){
       //what happens if the guess is correct?
       alert("correct")
   }
